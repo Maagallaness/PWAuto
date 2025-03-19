@@ -54,3 +54,6 @@ Playwright uses Chromium, Firefox and WebKit browser binaries to run tests. To u
 npx playwright install --with-deps
 
 You can always check which version of Playwright you have by running the following command:
+
+
+# Tests
